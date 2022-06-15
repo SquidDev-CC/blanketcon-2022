@@ -1,0 +1,6 @@
+{
+    "editor.rulers": [
+        26, 80, 120
+    ],
+    "python.formatting.provider": "black"
+}
